@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.emoji {
+  font-size: x-large;
+  cursor: pointer;
+}
+
+input {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+div {
+  font-weight: bold;
+}
+
+.mean {
+  border: solid black 2px;
+  width: 40%;
+  margin: auto;
+  padding: 1rem;
+  margin-top: 1rem;
+}
